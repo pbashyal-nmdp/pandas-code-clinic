@@ -9,6 +9,8 @@ https://pandas.pydata.org/docs/
 
 # WOM
 https://www.worldometers.info/coronavirus/
+https://www.worldometers.info/world-population/population-by-country/
+
 
 # NY Times
 https://github.com/nytimes/covid-19-data
